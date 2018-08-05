@@ -6,4 +6,6 @@
 !.gitignore
 !.conkyrc
 !.fehbg
+!.Xresources
+!.Xdefaults
 !Startup/
