@@ -1,0 +1,9 @@
+# ignore everything
+*
+
+# except these
+!.xinitrc
+!.gitignore
+!.conkyrc
+!.fehbg
+!Startup/

@@ -1,0 +1,26 @@
+own_window yes
+own_window_type override
+own_window_colour 131313
+own_window_transparent no
+own_window_hints undecorated above sticky skip_taskbar skip_pager
+double_buffer yes
+cpu_avg_samples 2
+net_avg_samples 2
+use_xft yes
+xftfont ubuntu:size=2
+update_interval 0
+minimum_size 1920 16
+maximum_width 1920
+border_width 0
+draw_outline yes
+default_color white
+alignment top_left
+use_spacer right
+no_buffers yes
+uppercase no
+TEXT
+${color #131313)Conky
+
+# OLD TEXT
+#  $nodename   ${color #000000}0   ${color #00EFF1}Uptime:  ${color #FFFFFF}$uptime   ${color #000000}0   ${color #00EFF1}FS:  ${color 
+#FFFFFF}${fs_used /} ${color #00EFF1}/  ${color #FFFFFF}${fs_size /}   ${color #000000}0   ${color #00EFF1}HD:  ${color #FFFFFF}${fs_used /home} ${color #00EFF1}/  ${color #FFFFFF}${fs_size /home}   ${color #000000}0   ${color #00EFF1}RAM:  ${color #FFFFFF}$mem${voffset 1}   ${color #000000}0   ${color #00EFF1}CPU:  ${color #FFFFFF}${cpu}%
