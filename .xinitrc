@@ -1,5 +1,5 @@
 #!/bin/sh
-xhost +localhsot &
+# xhost +localhsot &
 userresources=$HOME/.Xresources
 usermodmap=$HOME/.Xmodmap
 sysresources=/etc/X11/xinit/.Xresources
@@ -60,7 +60,7 @@ xrdb -merge ~/.Xdefaults &
 
 # SET BACKGROUND
 
-~/.fehbg &
+ ~/.fehbg &
 
 while true
 do
@@ -111,6 +111,6 @@ filezilla &
 
 # LAUNCH WINDOW MANAGER
 
-exec ~/dwm/dwm
+exec ~/dwm-chlorophyll/dwm
 
 export $DISPLAY=:0.0

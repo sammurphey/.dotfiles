@@ -1,2 +1,2 @@
 #!/bin/sh
-feh --recursive --bg-scale --randomize --no-fehbg ~/Pictures/wallpapers/*
+feh --recursive --bg-scale --randomize --no-fehbg ~/dwm-chlorophyll/wallpapers/*
