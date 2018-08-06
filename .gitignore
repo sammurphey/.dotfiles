@@ -4,8 +4,8 @@
 # except these
 !.xinitrc
 !.gitignore
+!compton.conf
 !.conkyrc
 !.fehbg
 !.Xresources
 !.Xdefaults
-!/home/sam/Startup/.gulp
