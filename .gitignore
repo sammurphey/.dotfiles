@@ -8,5 +8,5 @@
 !.fehbg
 !.Xresources
 !.Xdefaults
-!./Startup/.gulp
-!./Startup/.react
+!~/Startup/.gulp
+!~/Startup/.react
